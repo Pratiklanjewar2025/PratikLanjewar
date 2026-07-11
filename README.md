@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pratik Lanjewar
 
 🎓 B.Tech Computer Engineering Student at PCCOE, Pune
-🏆 MSBTE State-Level Project Competition Winner | 8× Project Competition Winner
+🏆 MSBTE State-Level Project Competition Winner | 10× Project Competition Winner
 💻 Full Stack & AI & Cloud Enthusiast | Problem Solver | Open Source Learner 
 
 I'm passionate about building impactful software that combines **Artificial Intelligence**, **IoT**, and **Web Development** to solve real-world problems. I enjoy turning innovative ideas into working products and continuously improving my skills through projects, hackathons, and competitive programming.
